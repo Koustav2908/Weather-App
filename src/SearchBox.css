@@ -1,0 +1,10 @@
+.SearchBox {
+    text-align: center;
+    margin: 25px;
+}
+
+.alert-custom {
+    width: 500px;
+    text-align: center;
+    margin: 1rem auto 1rem auto;
+}
